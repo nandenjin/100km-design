@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="point.svg"
+   inkscape:export-filename="C:\Users\MAKOTO INADA\Google ドライブ\百粁徒歩'14\Design\point_vector.png"
+   inkscape:export-xdpi="135"
+   inkscape:export-ydpi="135">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3837"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3839" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3831"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3833" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="532.07181"
+     inkscape:cy="95.996846"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3851"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Back"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-252.36218)"
+     style="opacity:0.27878789;display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="レイヤー"
+     style="display:inline;opacity:1">
+    <path
+       style="fill:none;stroke:none"
+       d="m 325.70043,8.5789565 83.37002,-81.2220845 0,0 79.12174,81.2141291"
+       id="path3797"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 5.7226969,320.31282 325.70043,8.5789565"
+       id="path3795"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 5.7118832,491.37344 -79.784033,403.61656 5.7226969,320.31282"
+       id="path3793"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 311.94934,805.70941 5.7118832,491.37344"
+       id="path3791"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 463.00661,805.71371 -77.49746,75.50082 -73.55981,-75.50512"
+       id="path3789"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 802.83363,474.64195 463.00661,805.71371"
+       id="path3787"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 802.8286,331.52804 71.53503,73.42679 -71.53,69.68712"
+       id="path3785"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 330.5625 77.78125 L 280.71875 129.125 L 316.875 185.53125 C 337.45301 173.60084 360.87915 166.01669 385.875 164.0625 L 385.875 77.78125 L 330.5625 77.78125 z M 410.125 77.78125 L 410.125 163.96875 C 436.27301 165.75828 460.69777 173.72866 482.03125 186.375 L 526.15625 123.875 L 478.65625 77.78125 L 410.125 77.78125 z M 543.75 140.96875 L 501.9375 200.21875 C 522.05593 216.59021 538.20233 237.6344 548.71875 261.71875 L 629.03125 223.75 L 543.75 140.96875 z M 263.375 147 L 172.90625 240.21875 L 246.28125 268 C 256.83577 240.80222 274.44341 217.11889 296.875 199.21875 L 263.375 147 z M 647.59375 241.78125 L 556.78125 284.71875 C 560.39576 298.23223 562.3125 312.43864 562.3125 327.09375 C 562.3125 339.31464 560.97956 351.23159 558.4375 362.6875 L 723.25 362.59375 L 723.25 315.21875 L 647.59375 241.78125 z M 154.5 259.1875 L 90.3125 325.3125 L 90.3125 365.53125 L 239.09375 362.4375 C 236.58956 351.05583 235.25 339.22632 235.25 327.09375 C 235.25 314.77437 236.63529 302.78922 239.21875 291.25 L 154.5 259.1875 z M 246.375 386.5 L 90.3125 389.78125 L 90.3125 471.46875 L 136.78125 516.5625 L 265.3125 421.65625 C 257.64169 410.83648 251.26315 399.04483 246.375 386.5 z M 723.25 386.84375 L 551.03125 386.9375 C 546.66336 398.04269 541.10389 408.54828 534.53125 418.3125 L 674.0625 519.84375 L 723.25 469.15625 L 723.25 386.84375 z M 519.84375 437.59375 C 516.3062 441.86678 512.60767 445.96673 508.4375 449.6875 C 494.87448 464.72658 483.01242 479.23827 472.625 493.28125 L 557.09375 640.3125 L 657 537.40625 L 519.84375 437.59375 z M 280.78125 440.34375 L 154.40625 533.6875 L 261.34375 637.46875 L 327.53125 490.125 C 313.30199 473.55519 298.86638 460.32215 285.96875 445.53125 C 285.95675 445.51935 285.9505 445.5119 285.9375 445.5 C 284.1795 443.8239 282.46297 442.09623 280.78125 440.34375 z M 344.34375 511.875 L 279.84375 655.4375 L 336.78125 710.6875 L 385.875 710.6875 L 385.875 609.125 C 374.89544 564.78405 360.18971 534.84687 344.34375 511.875 z M 457.3125 515.28125 C 431.83085 554.2872 417.70298 589.78516 410.125 623.53125 L 410.125 710.6875 L 488.78125 710.6875 L 539.53125 658.4375 L 457.3125 515.28125 z "
+       id="rect3867" />
+    <path
+       style="fill:none;stroke:none"
+       d="M 488.19219,8.5710011 802.8286,331.52804"
+       id="rect3010"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:44.72154617000000300;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="M 304.97389,42.580216 45.880289,310.07791 46.853114,493.96623 316.93544,755.53384 500.82375,754.56102 759.83395,487.14761 758.83392,298.11635 493.9772,41.580331 304.97389,42.580216 z"
+       id="rect3799-1" />
+    <g
+       id="g3872">
+      <path
+         sodipodi:nodetypes="ssccccccccsssssss"
+         inkscape:connector-curvature="0"
+         id="path3843"
+         d="m 397.15625,184.28125 c -77.31986,0 -140,62.68014 -140,140 0,39.86805 16.66262,75.846 43.40625,101.34375 0.0107,0.0102 0.0205,0.021 0.0312,0.0312 C 337.1633,467.59403 387.96631,494.84242 400,660 c -1.27831,-68.69896 7.1873,-137.80861 91.02679,-230.77232 6.17206,-5.50693 11.13817,-11.9985 16.25446,-18.50893 0.0231,-0.0295 0.0394,-0.0643 0.0625,-0.0937 0.52103,-0.53325 1.0365,-1.05897 1.5625,-1.59375 l -0.3125,0 c 17.91492,-23.52443 28.5625,-52.89868 28.5625,-84.75 0,-77.31986 -62.68014,-140 -140,-140 z m 0.59375,35.75 c 57.25044,0 103.65625,46.40581 103.65625,103.65625 0,57.25044 -46.40581,103.65625 -103.65625,103.65625 -57.25044,0 -103.6875,-46.40581 -103.6875,-103.65625 0,-57.25044 46.43706,-103.65625 103.6875,-103.65625 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(1.905622,0,0,1.905622,-17.296212,-253.62718)"
+         inkscape:transform-center-y="-9.1427536"
+         inkscape:transform-center-x="-0.69612519"
+         d="m 248.57143,346.42857 -31.30534,-17.34507 -32.03592,15.95541 6.82225,-35.13307 -25.07414,-25.53748 35.52172,-4.36837 16.53926,-31.73844 15.13138,32.43327 35.29596,5.92205 -26.17002,24.41323 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.592732"
+         sodipodi:arg1="0.96441344"
+         sodipodi:r2="26.947134"
+         sodipodi:r1="53.894264"
+         sodipodi:cy="302.14285"
+         sodipodi:cx="217.85715"
+         sodipodi:sides="5"
+         id="path3865"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
